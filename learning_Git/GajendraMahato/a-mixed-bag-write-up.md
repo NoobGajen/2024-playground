@@ -120,6 +120,8 @@ git cherry-pick C3
 
 **Task:** Tag commits `C1` and `C2`, and check out `C2`.
 
+<figure><img src=".gitbook/assets/ A Mixed Bag image 4.png" alt=""><figcaption></figcaption></figure>
+
 * **Creating and Using Tags:**
 
 ```bash
@@ -134,9 +136,11 @@ git checkout C2
 
 **Task:** Create a commit and use `git describe`.
 
+<figure><img src=".gitbook/assets/ A Mixed Bag image 5.png" alt=""><figcaption></figcaption></figure>
+
 * **Using `git describe`:**
 
 ```bash
-git commit
 git describe
+git commit
 ```
