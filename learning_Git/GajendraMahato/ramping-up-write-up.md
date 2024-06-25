@@ -28,6 +28,12 @@ git checkout C4
 git checkout C4^
 ```
 
+**OR,**
+
+```bash
+git checkout bugFix^
+```
+
 ### Level 3: Relative Refs #2 (\~)
 
 **Objective:** Use tilde (\~) to navigate multiple commits back.
