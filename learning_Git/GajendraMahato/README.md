@@ -4,10 +4,10 @@ Welcome to the Learn Git Branching guide! I'm [Gajendra Mahato](https://gajendra
 
 Learn Git Branching is perfect for beginners who want to get a strong start with Git and version control. Each level introduces new ideas and challenges that will help you understand how to use Git for managing code and collaborating with others.
 
-## Table of contents (WriteUp)
+## Table of contents (Write-up)
 
 * [Introduction Sequence](introduction-sequence-write-up.md)
-
+* [Ramping Up](ramping-up-write-up.md)
 
 ### Getting Started
 
