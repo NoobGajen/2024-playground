@@ -8,6 +8,9 @@ Learn Git Branching is perfect for beginners who want to get a strong start with
 
 * [Introduction Sequence](introduction-sequence-write-up.md)
 * [Ramping Up](ramping-up-write-up.md)
+* [Moving Work Around](moving-work-around-write-up.md)
+* [A Mixed Bag](a-mixed-bag-write-up.md)
+* [Advanced Topics](advanced-topics-write-up.md)
 
 ### Getting Started
 
